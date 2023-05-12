@@ -104,7 +104,7 @@ state = {
 }
 ```
 
-![image](https://github.com/savchyndd/goit-react-hw-02-phonebook/assets/96209694/5a7f3eee-9d93-4a1e-8f95-c2014ae6b136)
+![step-3](https://github.com/savchyndd/goit-react-hw-02-phonebook/assets/96209694/41724269-40de-48cc-ab14-c201786d8755)
 
 Коли ми працюємо над новим функціоналом, буває зручно жорстко закодувати деякі
 дані у стан. Це позбавить необхідності вручну вводити дані в інтерфейсі для
@@ -167,4 +167,5 @@ state = {
 Розшир функціонал застосунку, дозволивши користувачеві видаляти раніше збережені
 контакти.
 
-![image](https://github.com/savchyndd/goit-react-hw-02-phonebook/assets/96209694/d045f546-caf3-4693-8cde-e9829079498b)
+![step-6](https://github.com/savchyndd/goit-react-hw-02-phonebook/assets/96209694/ebf1f555-3fe4-4462-b435-2a635a95756c)
+
