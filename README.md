@@ -54,7 +54,7 @@ state = {
 [nanoid](https://www.npmjs.com/package/nanoid). Після завершення цього кроку,
 застосунок повинен виглядати приблизно так.
 
-## image
+![image](https://github.com/savchyndd/goit-react-hw-02-phonebook/assets/96209694/cf3b642c-581e-4fd8-81d4-ca7030ee94f5)
 
 #### Крок 2
 
@@ -84,7 +84,7 @@ state = {
 
 Після завершення цього кроку, застосунок повинен виглядати приблизно так.
 
-## component preview
+![image](https://github.com/savchyndd/goit-react-hw-02-phonebook/assets/96209694/db3f115b-6723-4804-bb49-7fdfb70a36e2)
 
 #### Крок 3
 
@@ -104,7 +104,7 @@ state = {
 }
 ```
 
-## component preview
+![image](https://github.com/savchyndd/goit-react-hw-02-phonebook/assets/96209694/5a7f3eee-9d93-4a1e-8f95-c2014ae6b136)
 
 Коли ми працюємо над новим функціоналом, буває зручно жорстко закодувати деякі
 дані у стан. Це позбавить необхідності вручну вводити дані в інтерфейсі для
@@ -160,11 +160,11 @@ state = {
 Заборони користувачеві можливість додавати контакти, імена яких вже присутні у
 телефонній книзі. При спробі виконати таку дію виведи `alert` із попередженням.
 
-## component preview
+![image](https://github.com/savchyndd/goit-react-hw-02-phonebook/assets/96209694/edf66829-f320-48a1-915f-a9265bc21700)
 
 #### Крок 6
 
 Розшир функціонал застосунку, дозволивши користувачеві видаляти раніше збережені
 контакти.
 
-## component preview
+![image](https://github.com/savchyndd/goit-react-hw-02-phonebook/assets/96209694/d045f546-caf3-4693-8cde-e9829079498b)
